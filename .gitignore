@@ -1,0 +1,22 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 打包文件
+dist/
+build/
+*.spec
+*.exe
+
+# 模型与Ollama文件
+ollamaModels/
+*.bin
+
+# 环境文件
+venv/
+.env
+
+# IDE配置
+.idea/
+.vscode/
